@@ -18,3 +18,6 @@ A multilingual, responsive healthcare kiosk web application built using **React*
 - **Localization**: i18next + react-i18next
 - **Backend (BaaS)**: Firebase (Firestore)
 - **Build Tool**: Vite
+
+**video**
+https://drive.google.com/file/d/1eVzW5hmHJdGQlER35XrNVZ94sb0VBVxB/view?usp=sharing
